@@ -1,5 +1,6 @@
 ### Hi, I'm German 👋
 
+![alt text](https://raw.githubusercontent.com/germantellezv/germantellezv/master/banner.png?raw=true)
 
 **germantellezv/germantellezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
