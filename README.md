@@ -1,4 +1,4 @@
-![alt text](?raw=true)
+![alt text](https://raw.githubusercontent.com/germantellezv/germantellezv/master/hi-banner.png?raw=true)
 
 **germantellezv/germantellezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
