@@ -1,4 +1,8 @@
+<img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortFlat&accessoriesType=Blank&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Blue03&eyeType=Surprised&eyebrowType=DefaultNatural&mouthType=Smile&skinColor=Light'/>
+
+<!---
 ![alt text](https://raw.githubusercontent.com/germantellezv/germantellezv/master/hi-banner.png?raw=true)
+-->
 
 <!---
 **germantellezv/germantellezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
