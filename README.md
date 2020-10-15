@@ -3,7 +3,7 @@
 
 
 Here are some facts about me:
-- 💬 I like to explain how to be a programmer
 - 🌱 I really like talking about nerdy stuff with friends
+- 💬 I like to explain how to be a web developer
 - 📫 You can follow me on instagram @germantellezv
 - ⚡ Fun fact: I am really forgetful sometimes.
